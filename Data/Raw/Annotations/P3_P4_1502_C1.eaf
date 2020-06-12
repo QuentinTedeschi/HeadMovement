@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2013-06-20T13:33:04+00:00" FORMAT="2.7" VERSION="2.7" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.7.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///D:/ConversationDatabase/CCDb/P3_P4_1502/P3_P4_1502_C1/P3_P4_1502_C1.mov" MIME_TYPE="video/quicktime" RELATIVE_MEDIA_URL="./P3_P4_1502_C1.mov"/>
+        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///D:/ConversationDatabase/CCDb/P3_P4_1502/P3_P4_1502_C1/P3_P4_1502_C1.mov" MEDIA_URL="file:///D:/ConversationDatabase/CCDb/P3_P4_1502/P3_P4_1502_C1/P3_P4_1502_C1.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./P3_P4_1502_C1.wav"/>
+        <PROPERTY NAME="lastUsedAnnotationId">237</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="4158"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4158"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4158"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="5412"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="5412"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="8151"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="8151"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8151"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="10032"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="10032"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="29469"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="29469"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="29469"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="30888"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="30888"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="35838"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="35838"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="54747"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="54747"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="54747"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="58575"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="59268"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="59268"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="59268"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="60489"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="61974"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="61974"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="68310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="72930"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="80685"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="80685"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="83787"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="83787"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="84183"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="90783"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="115566"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="118866"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="132990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="134871"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="161832"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="161832"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="161832"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="163383"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="163383"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="164340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="164340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="164373"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="165132"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="165132"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="165198"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="165462"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="165462"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="165462"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="167376"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="167376"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="167376"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="179454"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="179718"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="179718"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="179718"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="180180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="180180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="180180"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="181962"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="182820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="182820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="182853"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="183447"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="183447"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="183447"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="198165"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="198165"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="198165"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="206349"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="206349"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="206349"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="211596"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="211596"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="211596"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="214038"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="214038"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="214038"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="214599"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="214599"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="215061"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="215061"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="215358"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="215358"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="216183"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="216183"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="216810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="216810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="216810"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="219945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="219945"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="220374"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="220374"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="220374"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="223674"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="223674"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="230505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="230505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="232848"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="234663"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="240933"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="240933"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="240966"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="244530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="244530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="246510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="246510"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="246543"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="246675"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="247962"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="248127"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="248127"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="248127"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="248127"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="248226"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="249150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="249150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="249150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="257235"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="257268"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="264495"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="264495"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="264528"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="266739"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="266739"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="266739"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="269808"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="269808"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="269808"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="270072"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="270072"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="270204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="270204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="270204"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="270501"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="270501"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="270501"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="271326"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="271326"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="271326"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="273471"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="273471"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="273471"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="273735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="273735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="274395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="274395"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="288453"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="288453"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="289476"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="289476"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="296505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="296505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="296538"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Utterances">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE> </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a228" TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts81">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts85">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts89">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts105">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts125">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts128" TIME_SLOT_REF2="ts131">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts136" TIME_SLOT_REF2="ts139">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts142" TIME_SLOT_REF2="ts145">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Happy">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts94" TIME_SLOT_REF2="ts99">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Agree">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts112" TIME_SLOT_REF2="ts119">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Disagree">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts134" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Thinking">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts29">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Confused"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Surprised-Positive">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Disgust"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Sadness"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Other">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Surprised-Negative"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Anger"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Fear"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Head Nodding">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a169" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Head Sideways Shake">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a173" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts149">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Head Tilt (left/right)"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Backchannel">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a236" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a229" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a177" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a178" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a179" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a180" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts115">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts138" TIME_SLOT_REF2="ts141">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="FrontChannel">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a183" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a184" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE> </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a231" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a232" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a211" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a212" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a213" TIME_SLOT_REF1="ts102" TIME_SLOT_REF2="ts107">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a233" TIME_SLOT_REF1="ts116" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a217" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts127">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a220" TIME_SLOT_REF1="ts130" TIME_SLOT_REF2="ts133">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a234" TIME_SLOT_REF1="ts144" TIME_SLOT_REF2="ts147">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a221" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE> </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a226" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default" TIER_ID="Didnt Hear"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Utterance" PARENT_REF="Utterances" TIER_ID="Verbal">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>ok right so you don't like biographies why don't you like biographies</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a237" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>can see what you say but I I I quite I'm a people person I like finding out about peoples lives and whatever so dunno but i think you're right biographies uhh balanced biographies maybe reflected on a person whos obviously er lived and probably died or had a long life is probably uh better um certainly modern biographies of of the current you know famous fifteen minute stars i have no interest in whatsoever</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a235" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>the the one on Copeland one Arron Copeland one was a good one uhh a large volume that was a very very good but i like Copeland's music umm there there's one my wifes reading one about Mandela at the moment diaries which again is a bit making him sound too good to be true i think the the recent Mandela bu bu biographies umm you know ev ev even when he was in jail he was very nice to all the jailers and whatever and things and err umm you know skeptical to the well about biographies umm there's one good umm autobiography i read recently which is by the uh one of my favourite drummers in in uh in YES Bill Bruford heard of his head of him umm uhh and he's always been quite an objective guy ummm and it was sort of he was explaining his life and decisions he'd made rather than uh an ego trip and with a good analysis uh that was quite good but he's a fairly bal well hinged balanced guy so um and yeah a fair bit to say umm it it was quite interesting and it certainly wasn't was well written umm trying to think umm i think the best book i've read which is not a biography but it was a biography of contempory music there's a book by uh which is called The Rest is Noise which is a history of twentieth century music uhh and it starts off from umm uhh strauss salome 's concert where apparently hitler attended and stuff and there's all music sonic youth jazz you know umm all modern stuff all of the twnetieth century written by a guy alex ross who's a journalist for the new york times and that was just a such a well written book and err yesterday i got his new book which is umm it's not a a it's just a bunch of sort of chapters on writings on music this one which i'm looking forward to read umm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>no i wouldn't mind</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a117" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>i wouldn't mind reading that one coz he was an interesting guy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a118" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>really</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a119" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>ahh ok</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a120" TIME_SLOT_REF1="ts72" TIME_SLOT_REF2="ts75">
+                <ANNOTATION_VALUE>i'm amazed his estate still keep to it coz there's plenty of cases where peoples estates have have have just gone back back and he's dead who gives a toss now and uh we we can publish it</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts78" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>oh right i'll i'll look out for that one yeah i'll look out for that one</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>all right ok</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts92" TIME_SLOT_REF2="ts97">
+                <ANNOTATION_VALUE>i dunno umm welsh cooking then what do you know about welsh cooking</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a124" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>maybe you might want to try the ones in sainsburys then the wassit the umm the uh ones next to the the blue one coz they're quite cinnamony umm and they've got sugar on as well which i i dunno</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a128" TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts111">
+                <ANNOTATION_VALUE>cawl cawl cawl</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a130" TIME_SLOT_REF1="ts118" TIME_SLOT_REF2="ts121">
+                <ANNOTATION_VALUE>which is welsh stew</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a131" TIME_SLOT_REF1="ts124" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>if you well well the the the other traditional welsh ones is is is the one is basically umm lava bread</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a134" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>umm sea seaweed so i dunno if you like</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>no</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a136" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>i don't like seawee sea seaweed at all</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a137" TIME_SLOT_REF1="ts150" TIME_SLOT_REF2="ts153">
+                <ANNOTATION_VALUE>maybe maybe if you got the taste from the uhh far eastern uh seaweed tastes so so umm you you you might like it uumm the other one is  welsh rarebit which is just cheese on toast spicy cheese spicy cheese on toast</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts154" TIME_SLOT_REF2="ts157">
+                <ANNOTATION_VALUE>yeah they put a bit bit of a bit of worster sauce or something in it so umm but i don't know if that's that that interesting</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Utterance" PARENT_REF="Utterances" TIER_ID="Non-Verbal">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts84" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>umm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Utterance" PARENT_REF="Happy" TIER_ID="Laugh"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="Smiles" PARENT_REF="Happy" TIER_ID="Smile">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a162" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a163" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a164" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a166" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONTROLLED_VOCABULARY_REF="Conversational Expressions" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Expressions" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In" CONTROLLED_VOCABULARY_REF="Smile" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Smiles" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="GB" LANGUAGE_CODE="en"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="Conversational Expressions" DESCRIPTION="">
+        <CV_ENTRY DESCRIPTION="eyebrows/forehead furrowed">brow_furrow</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="confusion">confusion</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="head shake to indicate disagreement">disagree</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="disgust">disgust</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="head motion not related to expression">head_motion</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="laughing - not smiling">laugh</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="head nod to indicate agree">agree</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="sad">sad</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="smiling not laughing">smile</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="surprised expression">surprise</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="eyes look upwards, sometimes head tilts/rotates to one side">thinking</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="mixture of expressions">mixture</CV_ENTRY>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Smile" DESCRIPTION="">
+        <CV_ENTRY DESCRIPTION="">weak</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">middle</CV_ENTRY>
+        <CV_ENTRY DESCRIPTION="">smile</CV_ENTRY>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>

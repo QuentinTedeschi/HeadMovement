@@ -1,0 +1,26 @@
+{
+    "model_name": "jester_conv_example",
+    "checkpoint": "",
+
+    "train_data_folder": "../../Data/Landmarks",
+    "val_data_folder": "../../Data/Landmarks",
+    "train_data_csv": "../../Data/Annotations/jester-v1-train.csv",
+    "val_data_csv": "../../Data/Annotations/jester-v1-validation.csv",
+    "labels_csv": "../../Data/Annotations/jester-v1-labels.csv",
+
+    "num_workers": 8,
+
+    "output_dir": "trainings/jpeg_mode2/",
+
+    "num_classes": 5,
+    "batch_size": 10,
+    "clip_size": 18,
+    "nclips": 1,
+    "step_size": 2,
+    "lr": 0.001,
+    "last_lr": 0.00001,
+    "momentum": 0.9,
+    "weight_decay": 0.00001,
+    "num_epochs": 20,
+    "print_freq": 100
+}

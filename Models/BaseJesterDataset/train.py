@@ -223,10 +223,9 @@ def train(train_loader, model, criterion, optimizer, epoch):
         loss = criterion(output, target)
 
         # measure accuracy and record loss
-        prec1, prec5 = accuracy(output.detach(), target.detach().cpu(), topk=(1, 5))
+        prec1 = accuracy(output.detach(), target.detach().cpu(), topk=(1, ))
         losses.update(loss.item(), input.size(0))
         top1.update(prec1.item(), input.size(0))
-        top5.update(prec5.item(), input.size(0))
 
         # compute gradient and do SGD step
         optimizer.zero_grad()
@@ -267,10 +266,9 @@ def validate(val_loader, model, criterion, class_to_idx=None):
                 targets_list.append(target.detach().cpu().numpy())
 
             # measure accuracy and record loss
-            prec1, prec5 = accuracy(output.detach(), target.detach().cpu(), topk=(1, 5))
+            prec1 = accuracy(output.detach(), target.detach().cpu(), topk=(1, ))
             losses.update(loss.item(), input.size(0))
             top1.update(prec1.item(), input.size(0))
-            top5.update(prec5.item(), input.size(0))
 
             if i % config["print_freq"] == 0:
                 print('Test: [{0}/{1}]\t'
@@ -321,7 +319,7 @@ def accuracy(output, target, topk=(1,)):
     for k in topk:
         correct_k = correct[:k].view(-1).float().sum(0)
         res.append(correct_k.mul_(100.0 / batch_size))
-    return res
+    return res[0]
 
 
 if __name__ == '__main__':
